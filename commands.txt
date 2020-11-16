@@ -2,3 +2,5 @@ npm install node
 (sudo) npm install -g typescript
 
 tsc // typescript compiler
+
+tsc --init  --> tsconfig.json
